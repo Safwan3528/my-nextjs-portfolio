@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I excel at crafting elegant digital experiance and i am Proficient
+            I excel at crafting elegant digital experiance and i am proficient
             in various programming languages and Technologies.
           </p>
           <div>
