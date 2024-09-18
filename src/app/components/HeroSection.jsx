@@ -39,18 +39,18 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I excel at crafting elegant digital experiance and i am proficient
+            I excel at crafting elegant digital experiance and i am Proficient
             in various programming languages and Technologies.
           </p>
           <div>
             <Link
-              href="https://www.wasap.my/+601156370422"
+              href="https://api.whatsapp.com/send?phone=601156370422"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
               Hire Me
             </Link>
             <Link
-              href="/resume/resume.pdf"
+              href="/resume/Resume.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
@@ -74,7 +74,6 @@ const HeroSection = () => {
               height={300}
             />
           </div>
-
           <div className="socials flex flex-row gap-2">
             <Link href="https://github.com/Safwan3528">
               <Image src={GithubIcon} alt="Github Icon" />
