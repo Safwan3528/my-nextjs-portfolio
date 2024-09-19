@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Portfolio Website
 
+![1](https://github.com/user-attachments/assets/db01d33c-5b6d-48e0-9665-e80e1bc171e9)
+
 This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
 
 https://safwanrahimi.netlify.app/
