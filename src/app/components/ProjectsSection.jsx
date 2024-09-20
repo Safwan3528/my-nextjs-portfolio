@@ -10,8 +10,8 @@ const projectsData = [
     title: "React Portfolio Website",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/Safwan3528/nextjs-portfolio/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Safwan3528/safwan-nextjs-portfolio",
+    previewUrl: "https://safwanrahimi.vercel.app/",
   },
   {
     id: 2,
@@ -31,10 +31,10 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "React Firebase Template",
+    title: "School Management System",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Safwan3528/school-management-system",
     previewUrl: "/",
   },
   {
